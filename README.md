@@ -26,6 +26,10 @@ Rule-based control (RBC) is widely adopted in buildings due to its stability and
 4. Modify the ```Sinergym*.py``` to fit your GPU availability.
 5. Run ```python Sinergym_BRL.py``` or ```python Sinergym.py```
 
+## Building BRL Dataset
+- The dataset we learn from for the offline approach is at https://github.com/HYDesmondLiu/B2RL
+
+
 ## Cite our paper
 
 --- Will update after the full paper is published officially---
