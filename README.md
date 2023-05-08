@@ -1,4 +1,4 @@
-# RUBICON
+# RUBICON (Rule-based Incorporated Control)
 
 ## Introduction
 Rule-based control (RBC) is widely adopted in buildings due to its stability and
