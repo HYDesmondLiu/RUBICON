@@ -1,4 +1,6 @@
 # RUBICON
+
+## Introduction
 Rule-based control (RBC) is widely adopted in buildings due to its stability and
     robustness. It resembles a behavior cloning methodology refined by human experts; however,
     it is incapable of adapting to distribution drifts.
@@ -17,9 +19,13 @@ Rule-based control (RBC) is widely adopted in buildings due to its stability and
     <ins>con</ins>trol regularization (RUBICON), outperforms state-of-the-art
     methods in offline settings by $40.7\%$ and improves the baseline method by $49.7\%$ in online settings with respect to a reward consisting of thermal comfort and energy consumption in building-RL environments. 
 
-# How to run it
+## How to run it
 1. Successfully install [Sinergym](https://github.com/ugr-sail/sinergym)
 2. Git clone our repository ```git clone https://github.com/HYDesmondLiu/RUBICON.git```
 3. ```cd ./RUBICON/01_BRL/``` or ```cd ./RUBICON/02_OnlineRL/```
 4. Modify the ```Sinergym*.py``` to fit your GPU availability.
 5. Run ```python Sinergym_BRL.py``` or ```python Sinergym.py```
+
+## Cite our paper
+
+--- Will update after the full paper is published officially---
