@@ -1,4 +1,4 @@
-# RUBICON (Rule-based Incorporated Control) Rule-based Policy Regularization for Reinforcement Learning-based Building Control
+# RUBICON (Rule-based Incorporated Control) <br>Rule-based Policy Regularization for <br>Reinforcement Learning-based Building Control
 
 ## Introduction
 Rule-based control (RBC) is widely adopted in buildings due to its stability and
