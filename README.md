@@ -31,7 +31,7 @@ Rule-based control (RBC) is widely adopted in buildings due to its stability and
 
 
 ## Please cite our paper if you use our codes
-
+```
 @inproceedings{liu2023rule,
   title={Rule-based policy regularization for reinforcement learning-based building control},
   author={Liu, Hsin-Yu and Balaji, Bharathan and Gupta, Rajesh and Hong, Dezhi},
@@ -39,3 +39,4 @@ Rule-based control (RBC) is widely adopted in buildings due to its stability and
   pages={242--265},
   year={2023}
 }
+```
